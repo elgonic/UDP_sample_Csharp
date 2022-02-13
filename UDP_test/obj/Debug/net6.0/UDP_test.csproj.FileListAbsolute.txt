@@ -1,0 +1,15 @@
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\UDP_test.exe
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\UDP_test.deps.json
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\UDP_test.runtimeconfig.json
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\UDP_test.dll
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\ref\UDP_test.dll
+D:\program\C#_temp\UDP_test\UDP_test\bin\Debug\net6.0\UDP_test.pdb
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.csproj.AssemblyReference.cache
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.AssemblyInfoInputs.cache
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.AssemblyInfo.cs
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.csproj.CoreCompileInputs.cache
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.dll
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\ref\UDP_test.dll
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.pdb
+D:\program\C#_temp\UDP_test\UDP_test\obj\Debug\net6.0\UDP_test.genruntimeconfig.cache
